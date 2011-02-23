@@ -1,4 +1,6 @@
-linha 1 - imbezerra
-linha 1 - idivaldomb
-linha 2 - moises
-linha - doda
+class entrada{
+	
+	public entrada{
+		super("Testes");
+	}
+}
